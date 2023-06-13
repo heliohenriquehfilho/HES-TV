@@ -1,0 +1,49 @@
+body {
+  background-color: #6C63FF;
+  color: #FFF;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  margin-top: 50px;
+}
+
+.buttons {
+  margin-top: 50px;
+}
+
+.button {
+  display: inline-block;
+  margin: 10px;
+  padding: 10px 20px;
+  background-color: #000;
+  color: #FFF;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 5px;
+}
+
+.tabs {
+  margin-top: 50px;
+}
+
+.tabs a {
+  margin: 0 10px;
+  color: #FFF;
+  text-decoration: none;
+}
+
+.watch-program {
+  margin-top: 50px;
+}
+
+.watch-button {
+  display: inline-block;
+  padding: 15px 30px;
+  background-color: #FFC400;
+  color: #000;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 5px;
+}
