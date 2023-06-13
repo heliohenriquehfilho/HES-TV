@@ -16,7 +16,7 @@ def movies():
 
 @app.route('/games')
 def games():
-    return render_template('games.html')
+    return render_template('https://heliohenriquehfilho.github.io/Incerta-Futuri/')
 
 @app.route('/live-streaming')
 def live_streaming():
